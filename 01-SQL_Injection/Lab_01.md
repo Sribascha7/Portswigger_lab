@@ -1,7 +1,6 @@
 
 # Lab-01 
  
-
 ## SQL Injection Vulnerability In WHERE Clause Allowing Retrieval Of Hidden Data
 
 ### Problem 
@@ -17,14 +16,12 @@
 ### Solution
 
 - GOto product Category  filter 
-![Lab 1 Screenshot](lab_01.png)
-![Lab 1 Screenshot](lab_02.png)
+![Lab 1 Screenshot](lab_01-1.png)
+![Lab 1 Screenshot](lab_01-2.png)
 
 - Then Change the Query 
 
 - ``` SQL_Query
   SELECT * FROM products WHERE category=' OR 1 = 1 --
 ```
-![Lab 3 Screenshot](lab_03.png)
- 
 - Lab is Solved 
