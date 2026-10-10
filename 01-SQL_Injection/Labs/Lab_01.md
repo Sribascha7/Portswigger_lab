@@ -22,6 +22,6 @@
 - Then Change the Query 
 
 - ``` SQL_Query
-  SELECT * FROM products WHERE category=' OR 1 = 1 --
-```
+  SELECT * FROM products WHERE category=' OR 1 = 1 --```
+  
 - Lab is Solved 
