@@ -48,17 +48,17 @@
 
 | Lab | Description |
 |---|---|
-| [Lab 01](Lab_01.md) | SQL Injection Lab 01 |
-| [Lab 02](Lab_02.md) | SQL Injection Lab 02 |
-| [Lab 03](Lab_03.md) | SQL Injection Lab 03 |
-| [Lab 04](Lab_04.md) | SQL Injection Lab 04 |
-| [Lab 05](Lab_05.md) | SQL Injection Lab 05 |
-| [Lab 06](Lab_06.md) | SQL Injection Lab 06 |
-| [Lab 07](Lab_07.md) | SQL Injection Lab 07 |
-| [Lab 08](Lab_08.md) | SQL Injection Lab 08 |
-| [Lab 09](Lab_09.md) | SQL Injection Lab 09 |
-| [Lab 10](Lab_10.md) | SQL Injection Lab 10 |
-| [Lab 11](Lab_11.md) | SQL Injection Lab 11 |
-| [Lab 12](Lab_12.md) | SQL Injection Lab 12 |
-| [Lab 13](Lab_13.md) | SQL Injection Lab 13 |
-| [Lab 14](Lab_14.md) | SQL Injection Lab 14 |
+| [Lab 01](./Labs/Lab_01.md) | SQL Injection Lab 01 |
+| [Lab 02](./Labs/Lab_02.md) | SQL Injection Lab 02 |
+| [Lab 03](./Labs/Lab_03.md) | SQL Injection Lab 03 |
+| [Lab 04](./Labs/Lab_04.md) | SQL Injection Lab 04 |
+| [Lab 05](./Labs/Lab_05.md) | SQL Injection Lab 05 |
+| [Lab 06](./Labs/Lab_06.md) | SQL Injection Lab 06 |
+| [Lab 07](./Labs/Lab_07.md) | SQL Injection Lab 07 |
+| [Lab 08](./Labs/Lab_08.md) | SQL Injection Lab 08 |
+| [Lab 09](./Labs/Lab_09.md) | SQL Injection Lab 09 |
+| [Lab 10](./Labs/Lab_10.md) | SQL Injection Lab 10 |
+| [Lab 11](./Labs/Lab_11.md) | SQL Injection Lab 11 |
+| [Lab 12](./Labs/Lab_12.md) | SQL Injection Lab 12 |
+| [Lab 13](./Labs/Lab_13.md) | SQL Injection Lab 13 |
+| [Lab 14](./Labs/Lab_14.md) | SQL Injection Lab 14 |
