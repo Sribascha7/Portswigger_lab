@@ -4,7 +4,7 @@ A collection of PortSwigger Web Security Academy lab write-ups, payloads, method
 
 ## Lab Write-ups
 
-1. [SQL Injection (SQLi)](SQLi/README.md)
+1. [SQL Injection (SQLi)](./01-SQL_Injection/README.md)
 2. [Cross-Site Scripting (XSS)](XSS/README.md)
 3. [Broken Access Control](Broken-Access-Control/README.md)
 4. [Authentication](Authentication/README.md)
