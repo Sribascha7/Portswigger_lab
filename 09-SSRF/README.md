@@ -41,10 +41,10 @@ in this situation the attacker modifies
 
 | Lab | Description |
 |---|---|
-| [Lab 01](./Lab_01.md) | SSRF Lab 01 |
-| [Lab 02](./Lab_02.md) | SSRF Lab 02 |
-| [Lab 03](./Lab_03.md) | SSRF Lab 03 |
-| [Lab 04](./Lab_04.md) | SSRF Lab 04 |
-| [Lab 05](./Lab_05.md) | Ssrf Lab 05 |
-| [Lab 06](./Lab_06.md) | SSRF Lab 06 |
-| [Lab 07](./Lab_07.md) | SSRF Lab 07 |
+| [Lab 01](./Labs/Lab_01.md) | SSRF Lab 01 |
+| [Lab 02](./Labs/Lab_02.md) | SSRF Lab 02 |
+| [Lab 03](./Labs/Lab_03.md) | SSRF Lab 03 |
+| [Lab 04](./Labs/Lab_04.md) | SSRF Lab 04 |
+| [Lab 05](./Labs/Lab_05.md) | Ssrf Lab 05 |
+| [Lab 06](./Labs/Lab_06.md) | SSRF Lab 06 |
+| [Lab 07](./Labs/Lab_07.md) | SSRF Lab 07 |
